@@ -19,4 +19,7 @@ Make sure you have the following installed:
 1. Clone the repository: https://github.com/klnconat/Kaizen.git
 2. Navigate to the project directory: cd your-react-native-project
 3. npm install
-4. Run the app: npx react-native run-android or npx react-native run-ios
+4. cd ios
+5. pod install
+6. cd ..
+8. Run the app: npx react-native run-android or npx react-native run-ios

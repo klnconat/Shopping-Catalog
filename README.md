@@ -1,8 +1,4 @@
-# Kaizen
-
-## Description
-
-Kaizen Case Study
+# Shopping Cart
 
 ## Getting Started
 

@@ -1,6 +1,4 @@
-# Shopping Cart
-
-## Getting Started
+# Shopping Catalog
 
 ### Prerequisites
 
